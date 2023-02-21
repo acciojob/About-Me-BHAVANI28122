@@ -27,7 +27,6 @@
 	display:flex;
 	flex-flow: row wrap;
 	flex-basis:50%;
-	border:1px solid red;
 	padding:30px;
 }
 .box img{
